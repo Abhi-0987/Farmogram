@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1031794551154",
+    "project_id": "farmogram-c5609",
+    "storage_bucket": "farmogram-c5609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031794551154:android:bc2f838f8374b03914d5eb",
+        "android_client_info": {
+          "package_name": "com.student.farmogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031794551154-1ib3cei1ol7hse8hcgffil86526st6f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.student.farmogram",
+            "certificate_hash": "d0e04567953e474acf2d49f4e3780d3418575ea5"
+          }
+        },
+        {
+          "client_id": "1031794551154-mhjim2mtaekh31a61tnod6j8c5v67gik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9cLA-mq-1TCMSSBxlqY1vwVVoPZIwkAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031794551154-mhjim2mtaekh31a61tnod6j8c5v67gik.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1031794551154-r20os56ej8rfqh3kc6bnt8uvhcblii1n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.farmogram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

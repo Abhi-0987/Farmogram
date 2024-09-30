@@ -1,4 +1,4 @@
-package com.example.farmogram
+package com.student.farmogram
 
 import io.flutter.embedding.android.FlutterActivity
 
